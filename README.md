@@ -64,7 +64,7 @@
 
 ## 🚀 快速开始
 
-### 环境要求
+### 环境要求 
 - Node.js 18+
 - PostgreSQL 14+
 - pnpm (推荐) 或 npm
@@ -74,3 +74,5 @@
 git clone https://github.com/your-username/finance-coach.git
 cd finance-coach
 pnpm install
+
+### 关键配置的结构在.env.example文件中，请对照修改
